@@ -91,7 +91,7 @@ contentCategories.forEach(category => {
 // Gallery Images
 const galleryImages = [
     { src: 'Images/Gap.jpeg', caption: 'Gap Picnic' },
-    { src: 'Images/BchGuyss.jpeg', caption: 'Beach Guys' },
+    { src: 'Images/BchGuyss.jpeg', caption: 'Bch Guys' },
     { src: 'Images/GrandFamily.jpeg', caption: 'GrandFather/GrandMother' },
     { src: 'Images/ChildhoodWithBro.jpg', caption: 'Childhood with Brother' },
     { src: 'Images/DashainFamily.jpg', caption: 'Dashain with Family' },
