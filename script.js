@@ -92,16 +92,11 @@ contentCategories.forEach(category => {
 const galleryImages = [
     { src: 'Images/Gap.jpeg', caption: 'Gap Picnic' },
     { src: 'Images/BchGuyss.jpeg', caption: 'Bch Guys' },
-    { src: 'Images/GrandFamily.jpeg', caption: 'GrandFather/GrandMother' },
-    { src: 'Images/ChildhoodWithBro.jpg', caption: 'with Brother' },
-    { src: 'Images/DashainFamily.jpg', caption: 'Dashain with Family' },
     { src: 'Images/fbProfile.jpg', caption: 'Amrit Khanal' },
     { src: 'Images/Football.jpeg', caption: 'Football with bch boys' },
-    { src: 'Images/GroupImage.jpg', caption: 'Group Image' },
-    { src: 'Images/HeavyHetaudaWay.jpg', caption: 'Way to hetauda' },
+    { src: 'Images/GroupImage.jpg', caption: 'Ktaa haru' },
     { src: 'Images/Hetauda.jpg', caption: 'Amrit Khanal' },
     { src: 'Images/Laboratory.jpg', caption: 'Laboratory' },
-    { src: 'Images/Laboratory1.jpg', caption: 'Laboratory 1' },
     { src: 'Images/MinistryProject.jpg', caption: 'Ministry Project' },
     { src: 'Images/My Childhood1.jpg', caption: 'First fb Photo 😍' }
 ];
